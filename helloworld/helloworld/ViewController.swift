@@ -23,6 +23,7 @@ class ViewController: UIViewController {
 
     @IBAction func aButton(sender: AnyObject) {
         label.text="hello world!"
+        label.adjustsFontSizeToFitWidth = true;
     }
 
 }
