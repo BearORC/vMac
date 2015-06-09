@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  helloworld
 //
-//  Created by 熊浩翔 on 15/6/8.
+//  Created by BearORC on 15/6/8.
 //  Copyright (c) 2015年 BearORC. All rights reserved.
 //
 
